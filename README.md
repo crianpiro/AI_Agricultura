@@ -12,5 +12,21 @@ Nuestros agricultores Colombianos por medio de su experiencia han logrado grande
 
 **Desarrollo del proyecto**
 
-- Para el desarrollo del proyecto se analizaron los datos 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rraRTj8XcPE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Inicialmente, los datos a trabajar fueron clasificados, proceso en el cual se descartaron conjuntos de datos que no eran de interes para el desarrollo del proyecto, que no servian para su analisis y no podian tratarse.
+
+- Se determinaron como utiles un conjunto de datos de 8 columnas por dataset de un total de 16, seguidamente se convirtieron todos los datos alfanumericos a datos numericos siendo estos relacionados por medio de diccionarios de python con un unico ID en cada caso.
+
+- Se visualizaron los datos de multiples maneras con el fin de encontrar las relaciones adecuadas para cumplir con los objetivos del proyecto, se encontró y marcó como importante la relación entre el municipio, departamento, area sembrada, area cosechada, producción y rendimiento.
+
+- Se determina la relación entre el lugar donde se siembra y el área sembrada con la producción y el rendimiento del cultivo, se usan varios metodos de regresión documentados en la libreria SKLEARN.
+
+- Se encuentra la convergencia entre algunos de los metodos utilizados hacia la solucion real del problema, obteniendo así un estimado de producción a partir de un lugar de siembra y un área sembrada que solventa los objetivos del proyecto. Se desestiman los metodos que no convergieron ya que no tenian un buen comportamiento de predicción.
+
+**Conclusiones**
+
+- Con los resultados obtenidos se determina que el lugar donde se siembra, es un factor importante ya que por propiedades de cada cultivo su producción es mejor en ciertas zonas del país, es decir, por propiedades como la necesidad de acidez en el suelo, buena vegetación, clima templado o caliente, presencia de animales entre otras cosas, la producción en cada cultivo resulta diferente dependiendo del sitio en donde se sembró.
+
+- Se concluye que si las condiciones del terreo o ecosistema en el cual se siembra el cultivo son las adecuadas, la producción del mismo es proporcional al área sembrada y se obtiene un margen de perdida muy pequeño.
+
+
+Puedes consultar el video del proyecto [aquí](https://www.youtube.com/embed/rraRTj8XcPE)
