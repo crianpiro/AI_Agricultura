@@ -10,6 +10,16 @@ Nuestros agricultores Colombianos por medio de su experiencia han logrado grande
 - Solucionar problemáticas referentes al tipo de cultivo o área a escoger,ayudar o predecir que cultivos plantar dependiendo la zona geográfica, y la viabilidad del cultivo entre otros datos recopilados en los datasets (Disponibles [aquí](https://www.datos.gov.co/) , [aquí](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Cadena-Productiva-Ma-z-Area-Producci-n-Y-Rendimien/d968-yfb5)).
 - Predecir que tipo de zona es acta para los cultivos, a partir de ciertas características, saber que tan productivo podría resultar el cultivo o que cultivo se podría obtener.
 
+**Material Disponible**
+
+- Se encuentran disponibles las dos versiones del proyecto(El analisis inicial 'Pv1.ipynb'; El analisis completo, predicción de la producción de los cultivos, comparación de metodos usados 'Pv2.ipynb').
+
+- Se encuentra tambien el material utilizado para exponer, datos importantes, interesantes y relevantes en sus dos versiones(Sin compilar 'Pv2Slides.ipynb' y Compilado 'Pv2Slides.slides.html').
+
+- Están disponibles las imagenes utilizadas para desarrollar el material expositorio como resultado de los notebooks trabajados.
+
+- Se encuentra el link del breve video explicativo del proyecto.
+
 **Desarrollo del proyecto**
 
 - Inicialmente, los datos a trabajar fueron clasificados, proceso en el cual se descartaron conjuntos de datos que no eran de interes para el desarrollo del proyecto, que no servian para su analisis y no podian tratarse.
