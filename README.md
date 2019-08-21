@@ -7,7 +7,7 @@ Nuestros agricultores Colombianos por medio de su experiencia han logrado grande
 
 **Objetivos del proyecto**
 
-- Solucionar problemáticas referentes al tipo de cultivo o área a escoger,ayudar o predecir que cultivos plantar dependiendo la zona geográfica, y la viabilidad del cultivo entre otros datos recopilados en los datasets (Disponibles [aquí](https://www.datos.gov.co/) , [aquí](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Cadena-Productiva-Ma-z-Area-Producci-n-Y-Rendimien/d968-yfb5)).
+- Solucionar problemáticas referentes al tipo de cultivo o área a escoger,ayudar o predecir que cultivos plantar dependiendo la zona geográfica, y la viabilidad del cultivo entre otros datos recopilados en los datasets (Disponibles [aquí](https://www.datos.gov.co/) y un ejemplo [aquí](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Cadena-Productiva-Ma-z-Area-Producci-n-Y-Rendimien/d968-yfb5)).
 - Predecir que tipo de zona es acta para los cultivos, a partir de ciertas características, saber que tan productivo podría resultar el cultivo o que cultivo se podría obtener.
 
 **Material Disponible**
