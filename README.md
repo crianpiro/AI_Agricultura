@@ -14,6 +14,8 @@ Nuestros agricultores Colombianos por medio de su experiencia han logrado grande
 
 - Se encuentran disponibles las dos versiones del proyecto(El analisis inicial 'Pv1.ipynb'; El analisis completo, predicción de la producción de los cultivos, comparación de metodos usados 'Pv2.ipynb').
 
+- Se encuentran los datasets utilizados antes y después de ser tratados en las carpetas 'Project_Data' y 'DataT' respectivamente.
+
 - Se encuentra tambien el material utilizado para exponer, datos importantes, interesantes y relevantes en sus dos versiones(Sin compilar 'Pv2Slides.ipynb' y Compilado 'Pv2Slides.slides.html').
 
 - Están disponibles las imagenes utilizadas para desarrollar el material expositorio como resultado de los notebooks trabajados.
